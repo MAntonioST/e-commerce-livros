@@ -7,7 +7,7 @@ Usuário (id, nome, email, senha, roles)
 Pedido (id, dataPedido, lista de Livros, Usuário, total)
 Tecnologias e Ferramentas:
 
-Java 21: Linguagem de programação.
+Java 17: Linguagem de programação.
 Spring Boot: Facilita a criação de aplicações stand-alone.
 Spring Security: Para autenticação e autorização.
 Auth: Implementação JWT para autenticação stateless.
